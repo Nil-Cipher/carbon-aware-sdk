@@ -1,0 +1,592 @@
+{
+    "asia-east1-a": {
+        "Latitude": "24.0498",
+        "Longitude": "120.4208",
+        "Name": "asia-east1-a"
+    },
+    "asia-east1-b": {
+        "Latitude": "24.0498",
+        "Longitude": "120.4208",
+        "Name": "asia-east1-b"
+    },
+    "asia-east1-c": {
+        "Latitude": "24.0498",
+        "Longitude": "120.4208",
+        "Name": "asia-east1-c"
+    },
+    "asia-east2-a": {
+        "Latitude": "22.3193",
+        "Longitude": "114.1694",
+        "Name": "asia-east2-a"
+    },
+    "asia-east2-b": {
+        "Latitude": "22.3193",
+        "Longitude": "114.1694",
+        "Name": "asia-east2-b"
+    },
+    "asia-east2-c": {
+        "Latitude": "22.3193",
+        "Longitude": "114.1694",
+        "Name": "asia-east2-c"
+    },
+    "asia-northeast1-a": {
+        "Latitude": "35.6895",
+        "Longitude": "139.6917",
+        "Name": "asia-northeast1-a"
+    },
+    "asia-northeast1-b": {
+        "Latitude": "35.6895",
+        "Longitude": "139.6917",
+        "Name": "asia-northeast1-b"
+    },
+    "asia-northeast1-c": {
+        "Latitude": "35.6895",
+        "Longitude": "139.6917",
+        "Name": "asia-northeast1-c"
+    },
+    "asia-northeast2-a": {
+        "Latitude": "34.6937",
+        "Longitude": "135.5022",
+        "Name": "asia-northeast2-a"
+    },
+    "asia-northeast2-b": {
+        "Latitude": "34.6937",
+        "Longitude": "135.5022",
+        "Name": "asia-northeast2-b"
+    },
+    "asia-northeast2-c": {
+        "Latitude": "34.6937",
+        "Longitude": "135.5022",
+        "Name": "asia-northeast2-c"
+    },
+    "asia-northeast3-a": {
+        "Latitude": "37.5665",
+        "Longitude": "126.9780",
+        "Name": "asia-northeast3-a"
+    },
+    "asia-northeast3-b": {
+        "Latitude": "37.5665",
+        "Longitude": "126.9780",
+        "Name": "asia-northeast3-b"
+    },
+    "asia-northeast3-c": {
+        "Latitude": "37.5665",
+        "Longitude": "126.9780",
+        "Name": "asia-northeast3-c"
+    },
+    "asia-south1-a": {
+        "Latitude": "19.0760",
+        "Longitude": "72.8777",
+        "Name": "asia-south1-a"
+    },
+    "asia-south1-b": {
+        "Latitude": "19.0760",
+        "Longitude": "72.8777",
+        "Name": "asia-south1-b"
+    },
+    "asia-south1-c": {
+        "Latitude": "19.0760",
+        "Longitude": "72.8777",
+        "Name": "asia-south1-c"
+    },
+    "asia-south2-a": {
+        "Latitude": "28.6139",
+        "Longitude": "77.2090",
+        "Name": "asia-south2-a"
+    },
+    "asia-south2-b": {
+        "Latitude": "28.6139",
+        "Longitude": "77.2090",
+        "Name": "asia-south2-b"
+    },
+    "asia-south2-c": {
+        "Latitude": "28.6139",
+        "Longitude": "77.2090",
+        "Name": "asia-south2-c"
+    },
+    "asia-southeast1-a": {
+        "Latitude": "1.3397",
+        "Longitude": "103.7074",
+        "Name": "asia-southeast1-a"
+    },
+    "asia-southeast1-b": {
+        "Latitude": "1.3397",
+        "Longitude": "103.7074",
+        "Name": "asia-southeast1-b"
+    },
+    "asia-southeast1-c": {
+        "Latitude": "1.3397",
+        "Longitude": "103.7074",
+        "Name": "asia-southeast1-c"
+    },
+    "asia-southeast2-a": {
+        "Latitude": "-6.2088",
+        "Longitude": "106.8456",
+        "Name": "asia-southeast2-a"
+    },
+    "asia-southeast2-b": {
+        "Latitude": "-6.2088",
+        "Longitude": "106.8456",
+        "Name": "asia-southeast2-b"
+    },
+    "asia-southeast2-c": {
+        "Latitude": "-6.2088",
+        "Longitude": "106.8456",
+        "Name": "asia-southeast2-c"
+    },
+    "australia-southeast1-a": {
+        "Latitude": "-33.8688",
+        "Longitude": "151.2093",
+        "Name": "australia-southeast1-a"
+    },
+    "australia-southeast1-b": {
+        "Latitude": "-33.8688",
+        "Longitude": "151.2093",
+        "Name": "australia-southeast1-b"
+    },
+    "australia-southeast1-c": {
+        "Latitude": "-33.8688",
+        "Longitude": "151.2093",
+        "Name": "australia-southeast1-c"
+    },
+    "australia-southeast2-a": {
+        "Latitude": "-37.8136",
+        "Longitude": "144.9631",
+        "Name": "australia-southeast2-a"
+    },
+    "australia-southeast2-b": {
+        "Latitude": "-37.8136",
+        "Longitude": "144.9631",
+        "Name": "australia-southeast2-b"
+    },
+    "australia-southeast2-c": {
+        "Latitude": "-37.8136",
+        "Longitude": "144.9631",
+        "Name": "australia-southeast2-c"
+    },
+    "europe-central2-a": {
+        "Latitude": "52.2297",
+        "Longitude": "21.0122",
+        "Name": "europe-central2-a"
+    },
+    "europe-central2-b": {
+        "Latitude": "52.2297",
+        "Longitude": "21.0122",
+        "Name": "europe-central2-b"
+    },
+    "europe-central2-c": {
+        "Latitude": "52.2297",
+        "Longitude": "21.0122",
+        "Name": "europe-central2-c"
+    },
+    "europe-north1-a": {
+        "Latitude": "60.5695",
+        "Longitude": "27.1878",
+        "Name": "europe-north1-a"
+    },
+    "europe-north1-b": {
+        "Latitude": "60.5695",
+        "Longitude": "27.1878",
+        "Name": "europe-north1-b"
+    },
+    "europe-north1-c": {
+        "Latitude": "60.5695",
+        "Longitude": "27.1878",
+        "Name": "europe-north1-c"
+    },
+    "europe-southwest1-a": {
+        "Latitude": "40.4168",
+        "Longitude": "-3.7038",
+        "Name": "europe-southwest1-a"
+    },
+    "europe-southwest1-b": {
+        "Latitude": "40.4168",
+        "Longitude": "-3.7038",
+        "Name": "europe-southwest1-b"
+    },
+    "europe-southwest1-c": {
+        "Latitude": "40.4168",
+        "Longitude": "-3.7038",
+        "Name": "europe-southwest1-c"
+    },
+    "europe-west1-b": {
+        "Latitude": "50.4521",
+        "Longitude": "3.8319",
+        "Name": "europe-west1-b"
+    },
+    "europe-west1-c": {
+        "Latitude": "50.4521",
+        "Longitude": "3.8319",
+        "Name": "europe-west1-c"
+    },
+    "europe-west1-d": {
+        "Latitude": "50.4521",
+        "Longitude": "3.8319",
+        "Name": "europe-west1-d"
+    },
+    "europe-west10-a": {
+        "Latitude": "52.5200",
+        "Longitude": "13.4050",
+        "Name": "europe-west10-a"
+    },
+    "europe-west10-b": {
+        "Latitude": "52.5200",
+        "Longitude": "13.4050",
+        "Name": "europe-west10-b"
+    },
+    "europe-west10-c": {
+        "Latitude": "52.5200",
+        "Longitude": "13.4050",
+        "Name": "europe-west10-c"
+    },
+    "europe-west12-a": {
+        "Latitude": "45.0703",
+        "Longitude": "7.6869",
+        "Name": "europe-west12-a"
+    },
+    "europe-west12-b": {
+        "Latitude": "45.0703",
+        "Longitude": "7.6869",
+        "Name": "europe-west12-b"
+    },
+    "europe-west12-c": {
+        "Latitude": "45.0703",
+        "Longitude": "7.6869",
+        "Name": "europe-west12-c"
+    },
+    "europe-west2-a": {
+        "Latitude": "51.5074",
+        "Longitude": "-0.1278",
+        "Name": "europe-west2-a"
+    },
+    "europe-west2-b": {
+        "Latitude": "51.5074",
+        "Longitude": "-0.1278",
+        "Name": "europe-west2-b"
+    },
+    "europe-west2-c": {
+        "Latitude": "51.5074",
+        "Longitude": "-0.1278",
+        "Name": "europe-west2-c"
+    },
+    "europe-west3-a": {
+        "Latitude": "50.1109",
+        "Longitude": "8.6821",
+        "Name": "europe-west3-a"
+    },
+    "europe-west3-b": {
+        "Latitude": "50.1109",
+        "Longitude": "8.6821",
+        "Name": "europe-west3-b"
+    },
+    "europe-west3-c": {
+        "Latitude": "50.1109",
+        "Longitude": "8.6821",
+        "Name": "europe-west3-c"
+    },
+    "europe-west4-a": {
+        "Latitude": "53.4370",
+        "Longitude": "6.8357",
+        "Name": "europe-west4-a"
+    },
+    "europe-west4-b": {
+        "Latitude": "53.4370",
+        "Longitude": "6.8357",
+        "Name": "europe-west4-b"
+    },
+    "europe-west4-c": {
+        "Latitude": "53.4370",
+        "Longitude": "6.8357",
+        "Name": "europe-west4-c"
+    },
+    "europe-west6-a": {
+        "Latitude": "47.3769",
+        "Longitude": "8.5417",
+        "Name": "europe-west6-a"
+    },
+    "europe-west6-b": {
+        "Latitude": "47.3769",
+        "Longitude": "8.5417",
+        "Name": "europe-west6-b"
+    },
+    "europe-west6-c": {
+        "Latitude": "47.3769",
+        "Longitude": "8.5417",
+        "Name": "europe-west6-c"
+    },
+    "europe-west8-a": {
+        "Latitude": "45.4642",
+        "Longitude": "9.1900",
+        "Name": "europe-west8-a"
+    },
+    "europe-west8-b": {
+        "Latitude": "45.4642",
+        "Longitude": "9.1900",
+        "Name": "europe-west8-b"
+    },
+    "europe-west8-c": {
+        "Latitude": "45.4642",
+        "Longitude": "9.1900",
+        "Name": "europe-west8-c"
+    },
+    "europe-west9-a": {
+        "Latitude": "48.8566",
+        "Longitude": "2.3522",
+        "Name": "europe-west9-a"
+    },
+    "europe-west9-b": {
+        "Latitude": "48.8566",
+        "Longitude": "2.3522",
+        "Name": "europe-west9-b"
+    },
+    "europe-west9-c": {
+        "Latitude": "48.8566",
+        "Longitude": "2.3522",
+        "Name": "europe-west9-c"
+    },
+    "me-central1-a": {
+        "Latitude": "25.2769",
+        "Longitude": "51.5200",
+        "Name": "me-central1-a"
+    },
+    "me-central1-b": {
+        "Latitude": "25.2769",
+        "Longitude": "51.5200",
+        "Name": "me-central1-b"
+    },
+    "me-central1-c": {
+        "Latitude": "25.2769",
+        "Longitude": "51.5200",
+        "Name": "me-central1-c"
+    },
+    "me-central2-a": {
+        "Latitude": "26.3927",
+        "Longitude": "49.9777",
+        "Name": "me-central2-a"
+    },
+    "me-central2-b": {
+        "Latitude": "26.3927",
+        "Longitude": "49.9777",
+        "Name": "me-central2-b"
+    },
+    "me-central2-c": {
+        "Latitude": "26.3927",
+        "Longitude": "49.9777",
+        "Name": "me-central2-c"
+    },
+    "me-west1-a": {
+        "Latitude": "32.0853",
+        "Longitude": "34.7818",
+        "Name": "me-west1-a"
+    },
+    "me-west1-b": {
+        "Latitude": "32.0853",
+        "Longitude": "34.7818",
+        "Name": "me-west1-b"
+    },
+    "me-west1-c": {
+        "Latitude": "32.0853",
+        "Longitude": "34.7818",
+        "Name": "me-west1-c"
+    },
+    "northamerica-northeast1-a": {
+        "Latitude": "45.5017",
+        "Longitude": "-73.5673",
+        "Name": "northamerica-northeast1-a"
+    },
+    "northamerica-northeast1-b": {
+        "Latitude": "45.5017",
+        "Longitude": "-73.5673",
+        "Name": "northamerica-northeast1-b"
+    },
+    "northamerica-northeast1-c": {
+        "Latitude": "45.5017",
+        "Longitude": "-73.5673",
+        "Name": "northamerica-northeast1-c"
+    },
+    "northamerica-northeast2-a": {
+        "Latitude": "43.6532",
+        "Longitude": "-79.3832",
+        "Name": "northamerica-northeast2-a"
+    },
+    "northamerica-northeast2-b": {
+        "Latitude": "43.6532",
+        "Longitude": "-79.3832",
+        "Name": "northamerica-northeast2-b"
+    },
+    "northamerica-northeast2-c": {
+        "Latitude": "43.6532",
+        "Longitude": "-79.3832",
+        "Name": "northamerica-northeast2-c"
+    },
+    "southamerica-east1-a": {
+        "Latitude": "-23.5329",
+        "Longitude": "-46.7927",
+        "Name": "southamerica-east1-a"
+    },
+    "southamerica-east1-b": {
+        "Latitude": "-23.5329",
+        "Longitude": "-46.7927",
+        "Name": "southamerica-east1-b"
+    },
+    "southamerica-east1-c": {
+        "Latitude": "-23.5329",
+        "Longitude": "-46.7927",
+        "Name": "southamerica-east1-c"
+    },
+    "southamerica-west1-a": {
+        "Latitude": "-33.4489",
+        "Longitude": "-70.6693",
+        "Name": "southamerica-west1-a"
+    },
+    "southamerica-west1-b": {
+        "Latitude": "-33.4489",
+        "Longitude": "-70.6693",
+        "Name": "southamerica-west1-b"
+    },
+    "southamerica-west1-c": {
+        "Latitude": "-33.4489",
+        "Longitude": "-70.6693",
+        "Name": "southamerica-west1-c"
+    },
+    "us-central1-a": {
+        "Latitude": "41.2619",
+        "Longitude": "-95.8608",
+        "Name": "us-central1-a"
+    },
+    "us-central1-b": {
+        "Latitude": "41.2619",
+        "Longitude": "-95.8608",
+        "Name": "us-central1-b"
+    },
+    "us-central1-c": {
+        "Latitude": "41.2619",
+        "Longitude": "-95.8608",
+        "Name": "us-central1-c"
+    },
+    "us-central1-f": {
+        "Latitude": "41.2619",
+        "Longitude": "-95.8608",
+        "Name": "us-central1-f"
+    },
+    "us-east1-b": {
+        "Latitude": "33.1980",
+        "Longitude": "-80.0100",
+        "Name": "us-east1-b"
+    },
+    "us-east1-c": {
+        "Latitude": "33.1980",
+        "Longitude": "-80.0100",
+        "Name": "us-east1-c"
+    },
+    "us-east1-d": {
+        "Latitude": "33.1980",
+        "Longitude": "-80.0100",
+        "Name": "us-east1-d"
+    },
+    "us-east4-a": {
+        "Latitude": "39.0438",
+        "Longitude": "-77.4874",
+        "Name": "us-east4-a"
+    },
+    "us-east4-b": {
+        "Latitude": "39.0438",
+        "Longitude": "-77.4874",
+        "Name": "us-east4-b"
+    },
+    "us-east4-c": {
+        "Latitude": "39.0438",
+        "Longitude": "-77.4874",
+        "Name": "us-east4-c"
+    },
+    "us-east5-a": {
+        "Latitude": "39.9612",
+        "Longitude": "-82.9988",
+        "Name": "us-east5-a"
+    },
+    "us-east5-b": {
+        "Latitude": "39.9612",
+        "Longitude": "-82.9988",
+        "Name": "us-east5-b"
+    },
+    "us-east5-c": {
+        "Latitude": "39.9612",
+        "Longitude": "-82.9988",
+        "Name": "us-east5-c"
+    },
+    "us-south1-a": {
+        "Latitude": "32.7767",
+        "Longitude": "-96.7970",
+        "Name": "us-south1-a"
+    },
+    "us-south1-b": {
+        "Latitude": "32.7767",
+        "Longitude": "-96.7970",
+        "Name": "us-south1-b"
+    },
+    "us-south1-c": {
+        "Latitude": "32.7767",
+        "Longitude": "-96.7970",
+        "Name": "us-south1-c"
+    },
+    "us-west1-a": {
+        "Latitude": "45.5946",
+        "Longitude": "-121.1787",
+        "Name": "us-west1-a"
+    },
+    "us-west1-b": {
+        "Latitude": "45.5946",
+        "Longitude": "-121.1787",
+        "Name": "us-west1-b"
+    },
+    "us-west1-c": {
+        "Latitude": "45.5946",
+        "Longitude": "-121.1787",
+        "Name": "us-west1-c"
+    },
+    "us-west2-a": {
+        "Latitude": "34.0522",
+        "Longitude": "-118.2437",
+        "Name": "us-west2-a"
+    },
+    "us-west2-b": {
+        "Latitude": "34.0522",
+        "Longitude": "-118.2437",
+        "Name": "us-west2-b"
+    },
+    "us-west2-c": {
+        "Latitude": "34.0522",
+        "Longitude": "-118.2437",
+        "Name": "us-west2-c"
+    },
+    "us-west3-a": {
+        "Latitude": "40.7608",
+        "Longitude": "-111.8910",
+        "Name": "us-west3-a"
+    },
+    "us-west3-b": {
+        "Latitude": "40.7608",
+        "Longitude": "-111.8910",
+        "Name": "us-west3-b"
+    },
+    "us-west3-c": {
+        "Latitude": "40.7608",
+        "Longitude": "-111.8910",
+        "Name": "us-west3-c"
+    },
+    "us-west4-a": {
+        "Latitude": "36.1699",
+        "Longitude": "-115.1398",
+        "Name": "us-west4-a"
+    },
+    "us-west4-b": {
+        "Latitude": "36.1699",
+        "Longitude": "-115.1398",
+        "Name": "us-west4-b"
+    },
+    "us-west4-c": {
+        "Latitude": "36.1699",
+        "Longitude": "-115.1398",
+        "Name": "us-west4-c"
+    }
+}

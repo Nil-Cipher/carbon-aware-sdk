@@ -1,0 +1,592 @@
+{
+    "asia-east1-a": {
+        "Latitude": "24.0498",
+        "Longitude": "120.4208",
+        "Name": "Changhua County, Taiwan, APAC"
+    },
+    "asia-east1-b": {
+        "Latitude": "24.0498",
+        "Longitude": "120.4208",
+        "Name": "Changhua County, Taiwan, APAC"
+    },
+    "asia-east1-c": {
+        "Latitude": "24.0498",
+        "Longitude": "120.4208",
+        "Name": "Changhua County, Taiwan, APAC"
+    },
+    "asia-east2-a": {
+        "Latitude": "22.3193",
+        "Longitude": "114.1694",
+        "Name": "Hong Kong, APAC"
+    },
+    "asia-east2-b": {
+        "Latitude": "22.3193",
+        "Longitude": "114.1694",
+        "Name": "Hong Kong, APAC"
+    },
+    "asia-east2-c": {
+        "Latitude": "22.3193",
+        "Longitude": "114.1694",
+        "Name": "Hong Kong, APAC"
+    },
+    "asia-northeast1-a": {
+        "Latitude": "35.6895",
+        "Longitude": "139.6917",
+        "Name": "Tokyo, Japan, APAC"
+    },
+    "asia-northeast1-b": {
+        "Latitude": "35.6895",
+        "Longitude": "139.6917",
+        "Name": "Tokyo, Japan, APAC"
+    },
+    "asia-northeast1-c": {
+        "Latitude": "35.6895",
+        "Longitude": "139.6917",
+        "Name": "Tokyo, Japan, APAC"
+    },
+    "asia-northeast2-a": {
+        "Latitude": "34.6937",
+        "Longitude": "135.5022",
+        "Name": "Osaka, Japan, APAC"
+    },
+    "asia-northeast2-b": {
+        "Latitude": "34.6937",
+        "Longitude": "135.5022",
+        "Name": "Osaka, Japan, APAC"
+    },
+    "asia-northeast2-c": {
+        "Latitude": "34.6937",
+        "Longitude": "135.5022",
+        "Name": "Osaka, Japan, APAC"
+    },
+    "asia-northeast3-a": {
+        "Latitude": "37.5665",
+        "Longitude": "126.9780",
+        "Name": "Seoul, South Korea, APAC"
+    },
+    "asia-northeast3-b": {
+        "Latitude": "37.5665",
+        "Longitude": "126.9780",
+        "Name": "Seoul, South Korea, APAC"
+    },
+    "asia-northeast3-c": {
+        "Latitude": "37.5665",
+        "Longitude": "126.9780",
+        "Name": "Seoul, South Korea, APAC"
+    },
+    "asia-south1-a": {
+        "Latitude": "19.0760",
+        "Longitude": "72.8777",
+        "Name": "Mumbai, India, APAC"
+    },
+    "asia-south1-b": {
+        "Latitude": "19.0760",
+        "Longitude": "72.8777",
+        "Name": "Mumbai, India, APAC"
+    },
+    "asia-south1-c": {
+        "Latitude": "19.0760",
+        "Longitude": "72.8777",
+        "Name": "Mumbai, India, APAC"
+    },
+    "asia-south2-a": {
+        "Latitude": "28.6139",
+        "Longitude": "77.2090",
+        "Name": "Delhi, India, APAC"
+    },
+    "asia-south2-b": {
+        "Latitude": "28.6139",
+        "Longitude": "77.2090",
+        "Name": "Delhi, India, APAC"
+    },
+    "asia-south2-c": {
+        "Latitude": "28.6139",
+        "Longitude": "77.2090",
+        "Name": "Delhi, India, APAC"
+    },
+    "asia-southeast1-a": {
+        "Latitude": "1.3397",
+        "Longitude": "103.7074",
+        "Name": "Jurong West, Singapore, APAC"
+    },
+    "asia-southeast1-b": {
+        "Latitude": "1.3397",
+        "Longitude": "103.7074",
+        "Name": "Jurong West, Singapore, APAC"
+    },
+    "asia-southeast1-c": {
+        "Latitude": "1.3397",
+        "Longitude": "103.7074",
+        "Name": "Jurong West, Singapore, APAC"
+    },
+    "asia-southeast2-a": {
+        "Latitude": "-6.2088",
+        "Longitude": "106.8456",
+        "Name": "Jakarta, Indonesia, APAC"
+    },
+    "asia-southeast2-b": {
+        "Latitude": "-6.2088",
+        "Longitude": "106.8456",
+        "Name": "Jakarta, Indonesia, APAC"
+    },
+    "asia-southeast2-c": {
+        "Latitude": "-6.2088",
+        "Longitude": "106.8456",
+        "Name": "Jakarta, Indonesia, APAC"
+    },
+    "australia-southeast1-a": {
+        "Latitude": "-33.8688",
+        "Longitude": "151.2093",
+        "Name": "Sydney, Australia, APAC"
+    },
+    "australia-southeast1-b": {
+        "Latitude": "-33.8688",
+        "Longitude": "151.2093",
+        "Name": "Sydney, Australia, APAC"
+    },
+    "australia-southeast1-c": {
+        "Latitude": "-33.8688",
+        "Longitude": "151.2093",
+        "Name": "Sydney, Australia, APAC"
+    },
+    "australia-southeast2-a": {
+        "Latitude": "-37.8136",
+        "Longitude": "144.9631",
+        "Name": "Melbourne, Australia, APAC"
+    },
+    "australia-southeast2-b": {
+        "Latitude": "-37.8136",
+        "Longitude": "144.9631",
+        "Name": "Melbourne, Australia, APAC"
+    },
+    "australia-southeast2-c": {
+        "Latitude": "-37.8136",
+        "Longitude": "144.9631",
+        "Name": "Melbourne, Australia, APAC"
+    },
+    "europe-central2-a": {
+        "Latitude": "52.2297",
+        "Longitude": "21.0122",
+        "Name": "Warsaw, Poland, Europe"
+    },
+    "europe-central2-b": {
+        "Latitude": "52.2297",
+        "Longitude": "21.0122",
+        "Name": "Warsaw, Poland, Europe"
+    },
+    "europe-central2-c": {
+        "Latitude": "52.2297",
+        "Longitude": "21.0122",
+        "Name": "Warsaw, Poland, Europe"
+    },
+    "europe-north1-a": {
+        "Latitude": "60.5695",
+        "Longitude": "27.1878",
+        "Name": "Hamina, Finland, Europe"
+    },
+    "europe-north1-b": {
+        "Latitude": "60.5695",
+        "Longitude": "27.1878",
+        "Name": "Hamina, Finland, Europe"
+    },
+    "europe-north1-c": {
+        "Latitude": "60.5695",
+        "Longitude": "27.1878",
+        "Name": "Hamina, Finland, Europe"
+    },
+    "europe-southwest1-a": {
+        "Latitude": "40.4168",
+        "Longitude": "-3.7038",
+        "Name": "Madrid, Spain, Europe"
+    },
+    "europe-southwest1-b": {
+        "Latitude": "40.4168",
+        "Longitude": "-3.7038",
+        "Name": "Madrid, Spain, Europe"
+    },
+    "europe-southwest1-c": {
+        "Latitude": "40.4168",
+        "Longitude": "-3.7038",
+        "Name": "Madrid, Spain, Europe"
+    },
+    "europe-west1-b": {
+        "Latitude": "50.4521",
+        "Longitude": "3.8319",
+        "Name": "St. Ghislain, Belgium, Europe"
+    },
+    "europe-west1-c": {
+        "Latitude": "50.4521",
+        "Longitude": "3.8319",
+        "Name": "St. Ghislain, Belgium, Europe"
+    },
+    "europe-west1-d": {
+        "Latitude": "50.4521",
+        "Longitude": "3.8319",
+        "Name": "St. Ghislain, Belgium, Europe"
+    },
+    "europe-west10-a": {
+        "Latitude": "52.5200",
+        "Longitude": "13.4050",
+        "Name": "Berlin, Germany, Europe"
+    },
+    "europe-west10-b": {
+        "Latitude": "52.5200",
+        "Longitude": "13.4050",
+        "Name": "Berlin, Germany, Europe"
+    },
+    "europe-west10-c": {
+        "Latitude": "52.5200",
+        "Longitude": "13.4050",
+        "Name": "Berlin, Germany, Europe"
+    },
+    "europe-west12-a": {
+        "Latitude": "45.0703",
+        "Longitude": "7.6869",
+        "Name": "Turin, Italy, Europe"
+    },
+    "europe-west12-b": {
+        "Latitude": "45.0703",
+        "Longitude": "7.6869",
+        "Name": "Turin, Italy, Europe"
+    },
+    "europe-west12-c": {
+        "Latitude": "45.0703",
+        "Longitude": "7.6869",
+        "Name": "Turin, Italy, Europe"
+    },
+    "europe-west2-a": {
+        "Latitude": "51.5074",
+        "Longitude": "-0.1278",
+        "Name": "London, England, Europe"
+    },
+    "europe-west2-b": {
+        "Latitude": "51.5074",
+        "Longitude": "-0.1278",
+        "Name": "London, England, Europe"
+    },
+    "europe-west2-c": {
+        "Latitude": "51.5074",
+        "Longitude": "-0.1278",
+        "Name": "London, England, Europe"
+    },
+    "europe-west3-a": {
+        "Latitude": "50.1109",
+        "Longitude": "8.6821",
+        "Name": "Frankfurt, Germany, Europe"
+    },
+    "europe-west3-b": {
+        "Latitude": "50.1109",
+        "Longitude": "8.6821",
+        "Name": "Frankfurt, Germany, Europe"
+    },
+    "europe-west3-c": {
+        "Latitude": "50.1109",
+        "Longitude": "8.6821",
+        "Name": "Frankfurt, Germany, Europe"
+    },
+    "europe-west4-a": {
+        "Latitude": "53.4370",
+        "Longitude": "6.8357",
+        "Name": "Eemshaven, Netherlands, Europe"
+    },
+    "europe-west4-b": {
+        "Latitude": "53.4370",
+        "Longitude": "6.8357",
+        "Name": "Eemshaven, Netherlands, Europe"
+    },
+    "europe-west4-c": {
+        "Latitude": "53.4370",
+        "Longitude": "6.8357",
+        "Name": "Eemshaven, Netherlands, Europe"
+    },
+    "europe-west6-a": {
+        "Latitude": "47.3769",
+        "Longitude": "8.5417",
+        "Name": "Zurich, Switzerland, Europe"
+    },
+    "europe-west6-b": {
+        "Latitude": "47.3769",
+        "Longitude": "8.5417",
+        "Name": "Zurich, Switzerland, Europe"
+    },
+    "europe-west6-c": {
+        "Latitude": "47.3769",
+        "Longitude": "8.5417",
+        "Name": "Zurich, Switzerland, Europe"
+    },
+    "europe-west8-a": {
+        "Latitude": "45.4642",
+        "Longitude": "9.1900",
+        "Name": "Milan, Italy, Europe"
+    },
+    "europe-west8-b": {
+        "Latitude": "45.4642",
+        "Longitude": "9.1900",
+        "Name": "Milan, Italy, Europe"
+    },
+    "europe-west8-c": {
+        "Latitude": "45.4642",
+        "Longitude": "9.1900",
+        "Name": "Milan, Italy, Europe"
+    },
+    "europe-west9-a": {
+        "Latitude": "48.8566",
+        "Longitude": "2.3522",
+        "Name": "Paris, France, Europe"
+    },
+    "europe-west9-b": {
+        "Latitude": "48.8566",
+        "Longitude": "2.3522",
+        "Name": "Paris, France, Europe"
+    },
+    "europe-west9-c": {
+        "Latitude": "48.8566",
+        "Longitude": "2.3522",
+        "Name": "Paris, France, Europe"
+    },
+    "me-central1-a": {
+        "Latitude": "25.2769",
+        "Longitude": "51.5200",
+        "Name": "Doha, Qatar, Middle East"
+    },
+    "me-central1-b": {
+        "Latitude": "25.2769",
+        "Longitude": "51.5200",
+        "Name": "Doha, Qatar, Middle East"
+    },
+    "me-central1-c": {
+        "Latitude": "25.2769",
+        "Longitude": "51.5200",
+        "Name": "Doha, Qatar, Middle East"
+    },
+    "me-central2-a": {
+        "Latitude": "26.3927",
+        "Longitude": "49.9777",
+        "Name": "Dammam, Saudi Arabia, Middle East"
+    },
+    "me-central2-b": {
+        "Latitude": "26.3927",
+        "Longitude": "49.9777",
+        "Name": "Dammam, Saudi Arabia, Middle East"
+    },
+    "me-central2-c": {
+        "Latitude": "26.3927",
+        "Longitude": "49.9777",
+        "Name": "Dammam, Saudi Arabia, Middle East"
+    },
+    "me-west1-a": {
+        "Latitude": "32.0853",
+        "Longitude": "34.7818",
+        "Name": "Tel Aviv, Israel, Middle East"
+    },
+    "me-west1-b": {
+        "Latitude": "32.0853",
+        "Longitude": "34.7818",
+        "Name": "Tel Aviv, Israel, Middle East"
+    },
+    "me-west1-c": {
+        "Latitude": "32.0853",
+        "Longitude": "34.7818",
+        "Name": "Tel Aviv, Israel, Middle East"
+    },
+    "northamerica-northeast1-a": {
+        "Latitude": "45.5017",
+        "Longitude": "-73.5673",
+        "Name": "Montréal, Québec, North America"
+    },
+    "northamerica-northeast1-b": {
+        "Latitude": "45.5017",
+        "Longitude": "-73.5673",
+        "Name": "Montréal, Québec, North America"
+    },
+    "northamerica-northeast1-c": {
+        "Latitude": "45.5017",
+        "Longitude": "-73.5673",
+        "Name": "Montréal, Québec, North America"
+    },
+    "northamerica-northeast2-a": {
+        "Latitude": "43.6532",
+        "Longitude": "-79.3832",
+        "Name": "Toronto, Ontario, North America"
+    },
+    "northamerica-northeast2-b": {
+        "Latitude": "43.6532",
+        "Longitude": "-79.3832",
+        "Name": "Toronto, Ontario, North America"
+    },
+    "northamerica-northeast2-c": {
+        "Latitude": "43.6532",
+        "Longitude": "-79.3832",
+        "Name": "Toronto, Ontario, North America"
+    },
+    "southamerica-east1-a": {
+        "Latitude": "-23.5329",
+        "Longitude": "-46.7927",
+        "Name": "Osasco, São Paulo, Brazil, South America"
+    },
+    "southamerica-east1-b": {
+        "Latitude": "-23.5329",
+        "Longitude": "-46.7927",
+        "Name": "Osasco, São Paulo, Brazil, South America"
+    },
+    "southamerica-east1-c": {
+        "Latitude": "-23.5329",
+        "Longitude": "-46.7927",
+        "Name": "Osasco, São Paulo, Brazil, South America"
+    },
+    "southamerica-west1-a": {
+        "Latitude": "-33.4489",
+        "Longitude": "-70.6693",
+        "Name": "Santiago, Chile, South America"
+    },
+    "southamerica-west1-b": {
+        "Latitude": "-33.4489",
+        "Longitude": "-70.6693",
+        "Name": "Santiago, Chile, South America"
+    },
+    "southamerica-west1-c": {
+        "Latitude": "-33.4489",
+        "Longitude": "-70.6693",
+        "Name": "Santiago, Chile, South America"
+    },
+    "us-central1-a": {
+        "Latitude": "41.2619",
+        "Longitude": "-95.8608",
+        "Name": "Council Bluffs, Iowa, North America"
+    },
+    "us-central1-b": {
+        "Latitude": "41.2619",
+        "Longitude": "-95.8608",
+        "Name": "Council Bluffs, Iowa, North America"
+    },
+    "us-central1-c": {
+        "Latitude": "41.2619",
+        "Longitude": "-95.8608",
+        "Name": "Council Bluffs, Iowa, North America"
+    },
+    "us-central1-f": {
+        "Latitude": "41.2619",
+        "Longitude": "-95.8608",
+        "Name": "Council Bluffs, Iowa, North America"
+    },
+    "us-east1-b": {
+        "Latitude": "33.1980",
+        "Longitude": "-80.0100",
+        "Name": "Moncks Corner, South Carolina, North America"
+    },
+    "us-east1-c": {
+        "Latitude": "33.1980",
+        "Longitude": "-80.0100",
+        "Name": "Moncks Corner, South Carolina, North America"
+    },
+    "us-east1-d": {
+        "Latitude": "33.1980",
+        "Longitude": "-80.0100",
+        "Name": "Moncks Corner, South Carolina, North America"
+    },
+    "us-east4-a": {
+        "Latitude": "39.0438",
+        "Longitude": "-77.4874",
+        "Name": "Ashburn, Virginia, North America"
+    },
+    "us-east4-b": {
+        "Latitude": "39.0438",
+        "Longitude": "-77.4874",
+        "Name": "Ashburn, Virginia, North America"
+    },
+    "us-east4-c": {
+        "Latitude": "39.0438",
+        "Longitude": "-77.4874",
+        "Name": "Ashburn, Virginia, North America"
+    },
+    "us-east5-a": {
+        "Latitude": "39.9612",
+        "Longitude": "-82.9988",
+        "Name": "Columbus, Ohio, North America"
+    },
+    "us-east5-b": {
+        "Latitude": "39.9612",
+        "Longitude": "-82.9988",
+        "Name": "Columbus, Ohio, North America"
+    },
+    "us-east5-c": {
+        "Latitude": "39.9612",
+        "Longitude": "-82.9988",
+        "Name": "Columbus, Ohio, North America"
+    },
+    "us-south1-a": {
+        "Latitude": "32.7767",
+        "Longitude": "-96.7970",
+        "Name": "Dallas, Texas, North America"
+    },
+    "us-south1-b": {
+        "Latitude": "32.7767",
+        "Longitude": "-96.7970",
+        "Name": "Dallas, Texas, North America"
+    },
+    "us-south1-c": {
+        "Latitude": "32.7767",
+        "Longitude": "-96.7970",
+        "Name": "Dallas, Texas, North America"
+    },
+    "us-west1-a": {
+        "Latitude": "45.5946",
+        "Longitude": "-121.1787",
+        "Name": "The Dalles, Oregon, North America"
+    },
+    "us-west1-b": {
+        "Latitude": "45.5946",
+        "Longitude": "-121.1787",
+        "Name": "The Dalles, Oregon, North America"
+    },
+    "us-west1-c": {
+        "Latitude": "45.5946",
+        "Longitude": "-121.1787",
+        "Name": "The Dalles, Oregon, North America"
+    },
+    "us-west2-a": {
+        "Latitude": "34.0522",
+        "Longitude": "-118.2437",
+        "Name": "Los Angeles, California, North America"
+    },
+    "us-west2-b": {
+        "Latitude": "34.0522",
+        "Longitude": "-118.2437",
+        "Name": "Los Angeles, California, North America"
+    },
+    "us-west2-c": {
+        "Latitude": "34.0522",
+        "Longitude": "-118.2437",
+        "Name": "Los Angeles, California, North America"
+    },
+    "us-west3-a": {
+        "Latitude": "40.7608",
+        "Longitude": "-111.8910",
+        "Name": "Salt Lake City, Utah, North America"
+    },
+    "us-west3-b": {
+        "Latitude": "40.7608",
+        "Longitude": "-111.8910",
+        "Name": "Salt Lake City, Utah, North America"
+    },
+    "us-west3-c": {
+        "Latitude": "40.7608",
+        "Longitude": "-111.8910",
+        "Name": "Salt Lake City, Utah, North America"
+    },
+    "us-west4-a": {
+        "Latitude": "36.1699",
+        "Longitude": "-115.1398",
+        "Name": "Las Vegas, Nevada, North America"
+    },
+    "us-west4-b": {
+        "Latitude": "36.1699",
+        "Longitude": "-115.1398",
+        "Name": "Las Vegas, Nevada, North America"
+    },
+    "us-west4-c": {
+        "Latitude": "36.1699",
+        "Longitude": "-115.1398",
+        "Name": "Las Vegas, Nevada, North America"
+    }
+}
