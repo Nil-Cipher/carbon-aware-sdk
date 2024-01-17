@@ -1,0 +1,173 @@
+{
+    "us-east-1-atl-1a": {
+      "Latitude": "33.7490",
+      "Longitude": "-84.3880",
+      "Name": "us-east-1-atl-1a"
+    },
+    "us-east-1-bos-1a": {
+      "Latitude": "42.3601",
+      "Longitude": "-71.0589",
+      "Name": "us-east-1-bos-1a"
+    },
+    "us-east-1-chi-1a": {
+      "Latitude": "41.8781",
+      "Longitude": "-87.6298",
+      "Name": "us-east-1-chi-1a"
+    },
+    "us-east-1-dfw-2a": {
+      "Latitude": "32.7767",
+      "Longitude": "-96.7970",
+      "Name": "us-east-1-dfw-2a"
+    },
+    "us-west-2-den-1a": {
+      "Latitude": "39.7392",
+      "Longitude": "-104.9903",
+      "Name": "us-west-2-den-1a"
+    },
+    "us-east-1-iah-1a": {
+      "Latitude": "29.7604",
+      "Longitude": "-95.3698",
+      "Name": "us-east-1-iah-1a"
+    },
+    "us-east-1-mci-1a": {
+      "Latitude": "39.0997",
+      "Longitude": "-94.5786",
+      "Name": "us-east-1-mci-1a"
+    },
+    "us-west-2-las-1a": {
+      "Latitude": "36.1699",
+      "Longitude": "-115.1398",
+      "Name": "us-west-2-las-1a"
+    },
+    "us-west-2-lax-1a": {
+      "Latitude": "34.0522",
+      "Longitude": "-118.2437",
+      "Name": "us-west-2-lax-1a"
+    },
+    "us-west-2-lax-1b": {
+      "Latitude": "34.0522",
+      "Longitude": "-118.2437",
+      "Name": "us-west-2-lax-1b"
+    },
+    "us-east-1-mia-1a": {
+      "Latitude": "25.7617",
+      "Longitude": "-80.1918",
+      "Name": "us-east-1-mia-1a"
+    },
+    "us-east-1-msp-1a": {
+      "Latitude": "44.9778",
+      "Longitude": "-93.2650",
+      "Name": "us-east-1-msp-1a"
+    },
+    "us-east-1-nyc-1a": {
+      "Latitude": "40.7128",
+      "Longitude": "-74.0060",
+      "Name": "us-east-1-nyc-1a"
+    },
+    "us-east-1-phl-1a": {
+      "Latitude": "39.9526",
+      "Longitude": "-75.1652",
+      "Name": "us-east-1-phl-1a"
+    },
+    "us-west-2-phx-2a": {
+      "Latitude": "33.4484",
+      "Longitude": "-112.0740",
+      "Name": "us-west-2-phx-2a"
+    },
+    "us-west-2-pdx-1a": {
+      "Latitude": "45.5051",
+      "Longitude": "-122.6750",
+      "Name": "us-west-2-pdx-1a"
+    },
+    "us-west-2-sea-1a": {
+      "Latitude": "47.6062",
+      "Longitude": "-122.3321",
+      "Name": "us-west-2-sea-1a"
+    },
+    "ap-southeast-2-akl-1a": {
+      "Latitude": "-36.8485",
+      "Longitude": "174.7633",
+      "Name": "ap-southeast-2-akl-1a"
+    },
+    "ap-southeast-1-bkk-1a": {
+      "Latitude": "13.7563",
+      "Longitude": "100.5018",
+      "Name": "ap-southeast-1-bkk-1a"
+    },
+    "us-east-1-bue-1a": {
+      "Latitude": "-34.6118",
+      "Longitude": "-58.4173",
+      "Name": "us-east-1-bue-1a"
+    },
+    "eu-north-1-cph-1a": {
+      "Latitude": "55.6761",
+      "Longitude": "12.5683",
+      "Name": "eu-north-1-cph-1a"
+    },
+    "ap-south-1-del-1a": {
+      "Latitude": "28.6139",
+      "Longitude": "77.2090",
+      "Name": "ap-south-1-del-1a"
+    },
+    "eu-central-1-ham-1a": {
+      "Latitude": "53.5511",
+      "Longitude": "9.9937",
+      "Name": "eu-central-1-ham-1a"
+    },
+    "ap-south-1-ccu-1a": {
+      "Latitude": "22.5726",
+      "Longitude": "88.3639",
+      "Name": "ap-south-1-ccu-1a"
+    },
+    "eu-north-1-hel-1a": {
+      "Latitude": "60.1695",
+      "Longitude": "24.9354",
+      "Name": "eu-north-1-hel-1a"
+    },
+    "af-south-1-los-1a": {
+      "Latitude": "6.5244",
+      "Longitude": "3.3792",
+      "Name": "af-south-1-los-1a"
+    },
+    "us-east-1-lim-1a": {
+      "Latitude": "-12.0464",
+      "Longitude": "-77.0428",
+      "Name": "us-east-1-lim-1a"
+    },
+    "ap-southeast-1-mnl-1a": {
+      "Latitude": "14.5995",
+      "Longitude": "120.9842",
+      "Name": "ap-southeast-1-mnl-1a"
+    },
+    "me-south-1-mct-1a": {
+      "Latitude": "23.6345",
+      "Longitude": "58.5255",
+      "Name": "me-south-1-mct-1a"
+    },
+    "ap-southeast-2-per-1a": {
+      "Latitude": "-31.9505",
+      "Longitude": "115.8605",
+      "Name": "ap-southeast-2-per-1a"
+    },
+    "us-east-1-qro-1a": {
+      "Latitude": "20.5881",
+      "Longitude": "-100.3899",
+      "Name": "us-east-1-qro-1a"
+    },
+    "us-east-1-scl-1a": {
+      "Latitude": "-33.4489",
+      "Longitude": "-70.6693",
+      "Name": "us-east-1-scl-1a"
+    },
+    "ap-northeast-1-tpe-1a": {
+      "Latitude": "25.0330",
+      "Longitude": "121.5654",
+      "Name": "ap-northeast-1-tpe-1a"
+    },
+    "eu-central-1-waw-1a": {
+      "Latitude": "52.2297",
+      "Longitude": "21.0122",
+      "Name": "eu-central-1-waw-1a"
+    }
+  }
+  
